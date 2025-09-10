@@ -1,0 +1,115 @@
+id,parent_id,name,code,description,icon,color,is_system,is_active,created_at,updated_at
+1,,Abuse,abuse,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+2,,Automobile,automobile,,fas fa-car,#795548,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+3,,Entertainment,entertainment,,fas fa-film,#e83e8c,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+4,,Family,family,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+5,,Food,food,,fas fa-utensils,#fd7e14,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+6,,Health Care,health_care,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+7,,Home Office,home_office,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+8,,Household,household,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+9,,Insurance,insurance,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+10,,Investment,investment,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+11,,Loans,loans,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+12,,Other,other,,fas fa-question-circle,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+13,,Personal,personal,,fas fa-user,#6f42c1,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+14,,Tax,tax,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+15,,Travel,travel,,fas fa-plane,#6610f2,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+16,,Utilities,utilities,,fas fa-bolt,#ffc107,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+17,,Vacation,vacation,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+18,1,Alcohol,alcohol,test,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-13 04:01:00.115019
+19,1,Can,can,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+20,1,Smoke,smoke,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+21,2,AAA or Road Services,aaa_or_road_services,,fas fa-car,#795548,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+22,2,Fuel,fuel,,fas fa-car,#795548,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+24,2,Lease,lease,,fas fa-car,#795548,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+25,2,Maintenance,maintenance,,fas fa-car,#795548,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+26,2,Mileage,mileage,,fas fa-car,#795548,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+28,2,Registration,registration,,fas fa-car,#795548,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+29,3,Movie,movie,,fas fa-film,#e83e8c,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+31,3,Party,party,,fas fa-film,#e83e8c,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+32,3,Subscription,subscription,,fas fa-film,#e83e8c,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+33,4,Child Care,child_care,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+34,4,Child Education,child_education,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+36,4,Toy,toy,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+37,5,Groceries,groceries,,fas fa-utensils,#fd7e14,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+38,5,Order Online,order_online,,fas fa-utensils,#fd7e14,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+40,5,Restaurant,restaurant,,fas fa-utensils,#fd7e14,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+41,5,Snack,snack,,fas fa-utensils,#fd7e14,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+42,6,Dental,dental,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+43,6,Eye Care,eye_care,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+44,6,Health Insurance,health_insurance,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+45,6,Medical,medical,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+46,6,Nutrition,nutrition,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+48,6,Prescription,prescription,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+49,7,Computer,computer,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+50,7,Electronics,electronics,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+51,7,Office Furniture,office_furniture,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+52,7,Office Supply,office_supply,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+54,7,Stationery,stationery,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+55,8,Appliance,appliance,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+56,8,Consumables,consumables,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+57,8,Home Maintenance,home_maintenance,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+58,8,Homeowner Fees,homeowner_fees,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+59,8,Household Tools,household_tools,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+60,8,Miscellaneous Household Items,miscellaneous_household_items,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+62,8,Postage,postage,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+63,8,Rent,rent,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+64,9,Auto,auto,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+65,9,Health,health,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+66,9,Home,home,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+67,9,Life,life,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+69,10,Mutual Fund,mutual_fund,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+70,10,NPS,nps,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+71,10,PPF,ppf,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+72,10,SSY,ssy,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+74,11,Home Equity,home_equity,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+75,11,Mortgage,mortgage,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+77,11,Student,student,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+79,13,Clothing,clothing,,fas fa-user,#6f42c1,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+80,13,Donation,donation,,fas fa-user,#6f42c1,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+81,13,Gift,gift,,fas fa-user,#6f42c1,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+83,13,Personal Care,personal_care,,fas fa-user,#6f42c1,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+85,14,Property Tax,property_tax,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+86,15,Airplane,airplane,,fas fa-plane,#6610f2,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+87,15,Bus,bus,,fas fa-plane,#6610f2,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+88,15,Car Rental,car_rental,,fas fa-plane,#6610f2,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+90,15,Hotel,hotel,,fas fa-plane,#6610f2,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+92,15,Taxi,taxi,,fas fa-plane,#6610f2,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+93,15,Train,train,,fas fa-plane,#6610f2,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+94,16,Cable TV,cable_tv,,fas fa-bolt,#ffc107,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+95,16,Electric,electric,,fas fa-bolt,#ffc107,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+96,16,Garbage,garbage,,fas fa-bolt,#ffc107,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+97,16,Gas,gas,,fas fa-bolt,#ffc107,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+98,16,Internet,internet,,fas fa-bolt,#ffc107,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+99,16,Telephone,telephone,,fas fa-bolt,#ffc107,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+100,16,Water,water,,fas fa-bolt,#ffc107,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+105,17,Misc,misc,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+107,17,Other Transportation,other_transportation,,fas fa-folder,#6c757d,1,1,2025-07-10 12:36:40,2025-07-10 12:36:40
+234,240,Salary,salary,Monthly salary income,fas fa-money-bill-wave,#28a745,0,1,2025-07-10 17:10:44,2025-07-10 21:33:57
+235,240,Freelance,freelance,Freelance work income,fas fa-laptop,#17a2b8,0,1,2025-07-10 17:10:44,2025-07-10 21:33:57
+236,240,Investment Returns,investment_returns,Returns from investments,fas fa-chart-line,#ffc107,0,1,2025-07-10 17:10:44,2025-07-10 21:33:57
+237,240,Business Income,business_income,Income from business activities,fas fa-briefcase,#6f42c1,0,1,2025-07-10 17:10:44,2025-07-10 21:33:57
+238,240,Rental Income,rental_income,Income from property rental,fas fa-home,#fd7e14,0,1,2025-07-10 17:10:44,2025-07-10 21:33:57
+239,240,Interest,interest,Bank interest and dividends,fas fa-percentage,#20c997,0,1,2025-07-10 17:10:44,2025-07-10 21:33:57
+240,,Income,income,All income sources and earnings,fas fa-arrow-up,#28a745,1,1,2025-07-10 21:32:28,2025-07-10 21:32:28
+241,,Account Transfer,ACCOUNT_TRANSFER,Migrated from legacy expense_report,,,0,1,2025-07-12 03:36:42,2025-07-12 03:36:42
+242,2,Other,OTHER,Migrated subcategory from legacy expense_report,,,0,1,2025-07-12 03:36:42,2025-07-12 03:36:42
+243,3,Other,OTHER,Migrated subcategory from legacy expense_report,,,0,1,2025-07-12 03:36:42,2025-07-12 03:36:42
+244,4,Other,OTHER,Migrated subcategory from legacy expense_report,,,0,1,2025-07-12 03:36:42,2025-07-12 03:36:42
+245,5,Other,OTHER,Migrated subcategory from legacy expense_report,,,0,1,2025-07-12 03:36:42,2025-07-12 03:36:42
+246,7,Other,OTHER,Migrated subcategory from legacy expense_report,,,0,1,2025-07-12 03:36:42,2025-07-12 03:36:42
+247,8,Other,OTHER,Migrated subcategory from legacy expense_report,,,0,1,2025-07-12 03:36:42,2025-07-12 03:36:42
+248,11,Other,OTHER,Migrated subcategory from legacy expense_report,,,0,1,2025-07-12 03:36:42,2025-07-12 03:36:42
+249,11,Auto,AUTO,Migrated subcategory from legacy expense_report,,,0,1,2025-07-12 03:36:42,2025-07-12 03:36:42
+250,12,Other,OTHER,Migrated subcategory from legacy expense_report,,,0,1,2025-07-12 03:36:42,2025-07-12 03:36:42
+251,13,Other,OTHER,Migrated subcategory from legacy expense_report,,,0,1,2025-07-12 03:36:42,2025-07-12 03:36:42
+252,17,Other,OTHER,Migrated subcategory from legacy expense_report,,,0,1,2025-07-12 03:36:42,2025-07-12 03:36:42
+253,240,Initial Balance,INITIAL_BALANCE,Migrated subcategory from legacy expense_report,,,0,1,2025-07-12 03:36:42,2025-07-12 03:36:42
+254,240,Cashback,CASHBACK,Migrated subcategory from legacy expense_report,,,0,1,2025-07-12 03:36:42,2025-07-12 03:36:42
+255,240,Equities,EQUITIES,Migrated subcategory from legacy expense_report,,,0,1,2025-07-12 03:36:42,2025-07-12 03:36:42
+256,240,Rents and royalties,RENTS_AND_ROYALTIES,Migrated subcategory from legacy expense_report,,,0,1,2025-07-12 03:36:42,2025-07-12 03:36:42
+257,240,Personal Savings,PERSONAL_SAVINGS,Migrated subcategory from legacy expense_report,,,0,1,2025-07-12 03:36:42,2025-07-12 03:36:42
+258,240,Other,OTHER,Migrated subcategory from legacy expense_report,,,0,1,2025-07-12 03:36:42,2025-07-12 03:36:42
+259,240,Snack,SNACK,Migrated subcategory from legacy expense_report,,,0,1,2025-07-12 03:36:42,2025-07-12 03:36:42
+260,240,Account Transfer,ACCOUNT_TRANSFER,Migrated subcategory from legacy expense_report,,,0,1,2025-07-12 03:36:42,2025-07-12 03:36:42
+261,,Loan,,,,,0,1,2025-07-13 04:47:10,2025-07-13 04:47:10
